@@ -1,0 +1,1 @@
+// Promokod yoki token tekshiruv kodi bu yerda bo'ladi

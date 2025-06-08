@@ -1,0 +1,1 @@
+<?php // Promokodni tekshirish kodi bu yerda bo'ladi ?>
